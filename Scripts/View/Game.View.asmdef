@@ -1,0 +1,17 @@
+{
+    "name": "Game.View",
+    "rootNamespace": "Game",
+    "references": [
+        "ProjectSettingTest.Director",
+        "ProjectSettingTest.Entity"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

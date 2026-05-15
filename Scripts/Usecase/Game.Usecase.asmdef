@@ -1,0 +1,17 @@
+{
+    "name": "Game.Usecase",
+    "rootNamespace": "Game",
+    "references": [
+        "ProjectSettingTest.Gateway",
+        "ProjectSettingTest.Entity"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true
+}
