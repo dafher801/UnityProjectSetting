@@ -2,6 +2,8 @@
     "name": "Game.Tests.EditMode",
     "rootNamespace": "Game",
     "references": [
+    	"UnityEngine.TestRunner",
+    	"UnityEditor.TestRunner",
         "Game.Entity",
         "Game.Gateway",
         "Game.Usecase",

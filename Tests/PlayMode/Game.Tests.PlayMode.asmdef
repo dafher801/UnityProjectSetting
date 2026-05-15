@@ -2,6 +2,7 @@
     "name": "Game.Tests.PlayMode",
     "rootNamespace": "Game",
     "references": [
+    	"UnityEngine.TestRunner",
         "Game.Entity",
         "Game.Gateway",
         "Game.Usecase",
