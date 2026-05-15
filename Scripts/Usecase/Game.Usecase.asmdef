@@ -1,9 +1,9 @@
 {
     "name": "Game.Usecase",
-    "rootNamespace": "Game",
+    "rootNamespace": "Game.Usecase",
     "references": [
-        "ProjectSettingTest.Gateway",
-        "ProjectSettingTest.Entity"
+        "Game.Gateway",
+        "Game.Entity"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

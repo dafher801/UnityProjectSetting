@@ -1,9 +1,9 @@
 {
     "name": "Game.Director",
-    "rootNamespace": "Game",
+    "rootNamespace": "Game.Director",
     "references": [
-        "ProjectSettingTest.Usecase",
-        "ProjectSettingTest.Entity"
+        "Game.Usecase",
+        "Game.Entity"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
