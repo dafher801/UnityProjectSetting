@@ -1,6 +1,6 @@
 {
     "name": "Game.Director",
-    "rootNamespace": "Game.Director",
+    "rootNamespace": "Game",
     "references": [
         "Game.Usecase",
         "Game.Entity"

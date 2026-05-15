@@ -1,6 +1,6 @@
 {
     "name": "Game.View",
-    "rootNamespace": "Game.View",
+    "rootNamespace": "Game",
     "references": [
         "Game.Director",
         "Game.Entity"

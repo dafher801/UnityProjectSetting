@@ -1,6 +1,6 @@
 {
     "name": "Game.Tests.EditMode",
-    "rootNamespace": "Game.Tests.EditMode",
+    "rootNamespace": "Game",
     "references": [
         "Game.Entity",
         "Game.Gateway",

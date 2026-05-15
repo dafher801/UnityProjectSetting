@@ -1,6 +1,6 @@
 {
     "name": "Game.Entity",
-    "rootNamespace": "Game.Entity",
+    "rootNamespace": "Game",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],

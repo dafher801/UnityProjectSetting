@@ -1,6 +1,6 @@
 {
     "name": "Game.Usecase",
-    "rootNamespace": "Game.Usecase",
+    "rootNamespace": "Game",
     "references": [
         "Game.Gateway",
         "Game.Entity"

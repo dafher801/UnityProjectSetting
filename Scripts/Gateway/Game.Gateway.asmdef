@@ -1,6 +1,6 @@
 {
     "name": "Game.Gateway",
-    "rootNamespace": "Game.Gateway",
+    "rootNamespace": "Game",
     "references": [
         "Game.Entity"
     ],
