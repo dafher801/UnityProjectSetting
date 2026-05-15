@@ -1,8 +1,12 @@
 {
-    "name": "Game.EditMode.Tests",
-    "rootNamespace": "Game.EditMode",
+    "name": "Game.Tests.EditMode",
+    "rootNamespace": "Game.Tests.EditMode",
     "references": [
-        "GUID:b460ef34bb188ba48b72a9a2055695ce"
+        "Game.Entity",
+        "Game.Gateway",
+        "Game.Usecase",
+        "Game.Director",
+        "Game.View"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
